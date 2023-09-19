@@ -26,10 +26,12 @@ Here are some ideas to get you started:
 - BSc in Mathematical Engineering @ Politecnico di Torino
 
 ## ✅ Projects:
+Below you will find some of the relevant projects I have been involved in.
 - [`Clustering spatial time series via Bayesian Nonparametric`](https://github.com/eugeniovaretti/PM10_BAYESIAN)
+- [`Mesh Reconstruction From Point Cloud`](https://github.com/eugeniovaretti/MeshReconstructionFromPointCloud)
 - [`Evaluation of Factors and Strategies to Mitigate Colony Loss in US`](https://github.com/eugeniovaretti/honeybeehealth)
 - [`Models Uncertainty Quantification`](https://github.com/eugeniovaretti/compstat_uq)
-- [`Understanding human brain connctivity`](https://github.com/eugeniovaretti/AS_BIPOLAR)
+- [`Understanding human brain connectivity`](https://github.com/eugeniovaretti/AS_BIPOLAR)
 
 ## 💻 Skills:
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]() 
