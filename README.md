@@ -43,3 +43,7 @@ Below you will find some of the relevant projects I have been involved in.
 ## 🔗 Get in Contact with me:  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eugenio.varetti@mail.polimi.it) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugenio-varetti/)
+
+
+[![Eugenio's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugeniovaretti)](https://github.com/anuraghazra/github-readme-stats)
+
