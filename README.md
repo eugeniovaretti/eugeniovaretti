@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Eugenio Varetti
-- 👨‍🎓 Studying Mathematical Engineering with a focus on Statistical Learning, Machine Learning, and Scientific Computing.
+- 👨‍🎓 Graduated in Mathematical Engineering with a focus on Statistical Learning, Machine Learning, and Scientific Computing.
 - 📚 Passionate about applying mathematical concepts to solve real-world problems.
 - 💻 Experienced in implementing machine learning algorithms and data analysis techniques.
 - 📊 Interested in exploring the intersection of statistics, mathematics, and computer science.
