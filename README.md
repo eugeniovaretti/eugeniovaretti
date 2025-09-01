@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 💻 Experienced in implementing machine learning algorithms and data analysis techniques.
 
 ## 🚀 Work
-- Software Engineer at [June (YC W21)](https://www.june.so/)
+- Software Engineer @ [June (YC W21)](https://www.june.so/)
 - Currenlty working at some personal projects... 🤔
 
 ## 🎓 Education: 
