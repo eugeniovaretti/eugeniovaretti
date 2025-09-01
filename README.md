@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Eugenio Varetti
-- 👨‍🎓 Graduated in Mathematical Engineering with a focus on Statistical Learning, Machine Learning, and Scientific Computing.
-- 📚 Passionate about applying mathematical concepts to solve real-world problems.
+- 👨‍🎓 Graduated in Mathematical Engineering with a focus on Statistical Learning and its pratical implementation.
+- 📚 Passionate about applying maths to solve real-world problems.
 - 💻 Experienced in implementing machine learning algorithms and data analysis techniques.
-- 📊 Interested in exploring the intersection of statistics, mathematics, and computer science.
-- 🚀 Constantly learning and keeping up with the latest advancements in the field.
+
+## 🚀 Work
+- Software Engineer at [June (YC W21)](https://www.june.so/)
+- Currenlty working at some personal projects... 🤔
 
 ## 🎓 Education: 
 - MSc in Statistical Learning track of Mathematical Engineering @ Politecnico di Milano
