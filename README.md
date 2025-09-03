@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 🚀 Work
 - Software Engineer @ [June (YC W21)](https://www.june.so/)
-- Currenlty working at some personal projects... 🤔
+- Currently working on some personal projects... 🤔
 
 ## 🎓 Education: 
 - MSc in Statistical Learning track of Mathematical Engineering @ Politecnico di Milano
